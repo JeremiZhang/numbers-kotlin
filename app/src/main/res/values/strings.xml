@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">numbers-kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="trivia_here">450 is a perfect score in Canadian five-pin bowling.</string>
+    <string name="trivia">Trivia</string>
+    <string name="instructions_here">Instructions: click the button to get a random number trivia</string>
+</resources>
